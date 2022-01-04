@@ -36,3 +36,6 @@ git과 github을 연습하기 위한 레포지토리
 
 ## 기여하기
 1. [기여하기](https://james-dev.notion.site/8444179e5d0e403da6953cdbf2ea2014)
+
+## 추가 학습하기
+[Learn Git Branching](https://learngitbranching.js.org/?locale=ko)
